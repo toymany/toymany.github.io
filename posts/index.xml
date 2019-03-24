@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on ヤマヤタケシのブログ</title>
+    <link>https://toymany.github.io/posts/</link>
+    <description>Recent content in Posts on ヤマヤタケシのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <lastBuildDate>Mon, 25 Mar 2019 02:58:56 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://toymany.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ゲーム制作風景の撮影</title>
-      <link>http://example.org/posts/2019-0325-02-58/</link>
+      <title>カードゲームテストプレイ風景の撮影</title>
+      <link>https://toymany.github.io/posts/2019-0325-02-58/</link>
       <pubDate>Mon, 25 Mar 2019 02:58:56 +0900</pubDate>
       
-      <guid>http://example.org/posts/2019-0325-02-58/</guid>
-      <description>こんにちはヤマヤタケシです。 本日、撮影を行ってきました。 本来は、こころ-青春葛藤編-のプレイ風景を撮影しようとしたのですが、人集まらず！ 1人だけ来ていただいたので、製作中の one knows (一人だけ知っている) のテストプレイ風景を撮影しました。撮影も練習も兼ねて。 しばらく前に買ってそのままだった安いビデオカメラと、安い三脚もバッチリ機能しました。</description>
+      <guid>https://toymany.github.io/posts/2019-0325-02-58/</guid>
+      <description>こんにちはヤマヤタケシです。 本日、撮影を行ってきました。
+本来は、こころ-青春葛藤編-のプレイ風景を撮影しようとしたのですが、人集まらず！
+1人だけ来ていただいたので、製作中の one knows (一人だけ知っている) のテストプレイ風景を撮影しました。撮影も練習も兼ねて。
+しばらく前に買ってそのままだった安いビデオカメラと、安い三脚もバッチリ機能しました。
+そんじゃまた。</description>
     </item>
     
   </channel>
