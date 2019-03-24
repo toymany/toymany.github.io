@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/posts/2019-0325-02-58/</loc>
+    <lastmod>2019-03-25T02:58:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
+    <lastmod>2019-03-25T02:58:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2019-03-25T02:58:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
