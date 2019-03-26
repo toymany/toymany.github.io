@@ -17,15 +17,8 @@
       <pubDate>Wed, 27 Mar 2019 00:49:45 +0900</pubDate>
       
       <guid>https://toymany.github.io/post/2019-0327-00-49/</guid>
-      <description>こんにちは、ヤマヤタケシです。 Wordpressがバージョンアップして動かなくなったので、プラグインを全部外しました。 ブログ記事の最初と最後の一文は定型文を入れていたのですが、それも無効になっています。 あぁ、ブレてしまいます。
-1年くらい前からWordPressの動作が重いことが気になっていて、移行したいなと思っていました。そんなときに、このバージョンアップによる不都合が。。。
-移行するって一体どこへ？何に？ってところで、Hugoとかを試してみました。コメント欄も結構前に停止しているので、すでに動的なブログである意味があまりないんですよね。とはいえ、今書いているこの画面のGUIは結構気に入っていました。emacsで書いたほうが早いんでしょうけど、なんかブログと言えばこの画面みたいな刷り込みがあったりして。
-で、Hugoというか、ジェネレーターで性的でエロティックじゃなくて、静的でスタッティックなページは爆速なんですよ。そりゃそうなんですが。WordPressもキャッシュのプラグインとか入れていた時期はあったのですが、やはりバージョンアップとかで動かなくなったりトラブルんですよね。無駄に。面倒になって、いまはキャッシュ系のプラグインは使っていません。というか、どのプラグインが原因で管理画面に入れなくなったかの追跡も面倒なので、プラグインはは全滅状態です！
-で、GitHub Pageを組み合わせると、Hugoで出力したWEBページをGitHubにcommit&amp;amp;pushすることで公開できるんですね。バージョン管理もできる！素晴らしい。GitHubは仕事でも使っているので、そこに統合できるとスイッチングコスト、脳内の切り替えが楽になります。なので、そっちに移行するのがいいかなーと思っています。
-で、移行にあたって問題なのが、過去の記事をどうするか？ですね。そこそこアクセスのあるページもあったりするので、過去の記事も移行先に置きたいなーと思っています。
-あー、しかし、GitHub Pageもありだけど、でかいプラットフォームに載せたほうが多数の読者を獲得できるかもしれないですね。なんとかブログってたくさんあるし、そこにはそのブログを定期的にチェックしている人がいるので、それを当てにするとか。
-徒然にまとまっていませんが、今年で40歳になるので、ブログを一新するのもありでしょう！
-そんじゃまた。</description>
+      <description>&lt;p&gt;こんにちは、ヤマヤタケシです。
+ブログ移行中です。ここが移行先です。&lt;a href=&#34;http://yamayatakeshi.jp&#34;&gt;移行元&lt;/a&gt;に下記の文章を書きました。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,11 +27,18 @@
       <pubDate>Mon, 25 Mar 2019 02:58:56 +0900</pubDate>
       
       <guid>https://toymany.github.io/post/2019-0325-02-58/</guid>
-      <description>こんにちはヤマヤタケシです。 本日、撮影を行ってきました。
-本来は、こころ-青春葛藤編-のプレイ風景を撮影しようとしたのですが、人集まらず！
-1人だけ来ていただいたので、製作中の one knows (一人だけ知っている) のテストプレイ風景を撮影しました。撮影も練習も兼ねて。
-しばらく前に買ってそのままだった安いビデオカメラと、安い三脚もバッチリ機能しました。
-そんじゃまた。</description>
+      <description>&lt;p&gt;こんにちはヤマヤタケシです。
+本日、撮影を行ってきました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://toymany.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toymany.github.io/about/</guid>
+      <description>ヤマヤタケシです。 自己紹介します。
+ アナログゲームを作る デジタルゲームを作る  </description>
     </item>
     
     <item>
@@ -47,9 +47,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://toymany.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+      <description>ヤマヤタケシです。 自己紹介します。
+ アナログゲームを作る デジタルゲームを作る  </description>
     </item>
     
   </channel>
